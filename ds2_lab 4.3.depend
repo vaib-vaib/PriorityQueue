@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622191897 source:c:\users\admin\documents\ds2_lab 4.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
